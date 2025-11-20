@@ -3,6 +3,12 @@
 26 Kasmere Cove  
 2048043950
 
+### Purpose ###
+This document clearly outlines the steps for providing a secure and standard Ubuntu Server virtual machine to host and test web applications.
+
+### Scope ###
+This procedures apply to 
+
 Version Info 
 | Version | Date | Name | 
 |---------|-------|------| 
@@ -18,8 +24,7 @@ Approval Table
 | Approved by | Ben (Department Head) |  | November 15, 2025 | 
 | Approved by | Richard (Manager) |  | November 18, 2025|
 
-### Purpose ###
-This document clearly outlines the steps for providing a secure and standard Ubuntu Server virtual machine to host and test web applications.
+
 
 
 
