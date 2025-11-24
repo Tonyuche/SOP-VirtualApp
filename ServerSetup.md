@@ -1,6 +1,6 @@
 <div align="center">
   
-# Standard Operations Procedure #
+# Standard Operations Procedure For The Provision Of Standard Ubuntu Server Virtual Machine #
 
 ## Tuchtech Ltd. ##
 26 Kasmere Cove  
