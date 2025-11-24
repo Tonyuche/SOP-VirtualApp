@@ -10,11 +10,13 @@
 This document clearly outlines the steps for providing a secure and standard Linux Server virtual machine to host and test web applications in scalable environment.
 </div>
 
+### Audience
+This document is intended for system administrators, IT, VMware administrators’ team, and other team members involved in the creation of virtual machines within the organization.
 ### Scope ###
-This procedures apply to; 
-* Provide a standardized procedure for deploying a virtual Linux server for web application testing.
-* Ensure consistency in environment setup, networking, and software installation.
-* Facilitate reproducible test environments for developers and QA teams.
+These procedures apply to; 
+* Providing a standardized procedure for deploying a virtual Linux server for web application testing.
+* Ensuring consistency in environment setup, networking, and software installation.
+* Facilitating reproducible test environments for developers and QA teams.
 
 ### Approval Table
 | Role | Name | Signature| Date |
