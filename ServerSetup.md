@@ -1,10 +1,14 @@
+<div align="center">
+  
 # Standard Operations Procedure #
+
 ## Tuchtech Ltd. ##
 26 Kasmere Cove  
 2048043950
 
-### Purpose ###
+### Purpose of Document ###
 This document clearly outlines the steps for providing a secure and standard Ubuntu Server virtual machine to host and test web applications.
+</div>
 
 ### Scope ###
 This procedures apply to 
